@@ -1,0 +1,13 @@
+*,
+html {
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 600px) {
+  .card-img-top {
+    height: auto;
+  }
+}
+.card{
+  cursor: pointer;
+}
